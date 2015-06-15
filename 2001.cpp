@@ -21,3 +21,13 @@ int main()
     }
     return 0;
 }
+//Sometimes we use c and others we can use c++
+//This problem which i solve in two years ago
+//In the time, i can't use c++
+//      cout.setf(ios::fixed);
+//      cout.setf(ios::showpoint);
+//      cout.precision(2);
+//      cout<<setprecision(2)<<ans<<endl;
+//  the four words equal to one c language
+// printf("0.2l%",&ans);
+//so we should choose the suit language
