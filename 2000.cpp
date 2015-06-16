@@ -17,3 +17,5 @@ int main()
 
 	return 0;
 }
+
+// compare with three character
